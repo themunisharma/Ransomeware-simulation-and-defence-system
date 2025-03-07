@@ -2,16 +2,16 @@
 
 A **Python-based cybersecurity project** that simulates a **ransomware attack** (file encryption) and implements **defense mechanisms** to detect and prevent such attacks.
 
-## 🚀 Features
+##  Features
 
-✅ **Ransomware Simulation**
+ **Ransomware Simulation**
    - Encrypts files in a specified folder.
    - Generates a ransom note.
 
-✅ **Decryption System**
+ **Decryption System**
    - Recovers encrypted files using a stored key.
 
-✅ **Defense Mechanism**
+ **Defense Mechanism**
    - Monitors file system changes in real time.
    - Creates automatic backups upon suspicious activity.
 

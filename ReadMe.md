@@ -21,5 +21,5 @@ A **Python-based cybersecurity project** that simulates a **ransomware attack** 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/RansomwareDefender.git
-cd RansomwareDefender
+git clone https://github.com/themunisharma/Ransomeware-simulation-and-defence-system
+cd Ransomeware-simulation-and-defence-system
